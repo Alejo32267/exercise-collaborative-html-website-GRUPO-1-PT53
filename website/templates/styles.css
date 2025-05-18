@@ -1,0 +1,30 @@
+.img-class {
+    border-radius: 50%;
+     border-radius: 50%;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  align-items: center;
+  margin: 20px;
+}
+
+.izquierda {
+  display: inline-flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+.derecha {
+  display: inline-flex;
+  justify-content: center;
+  color: grey;
+}
+
+p, h1 {
+     font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings: 100;
+  font-size: 170%;
+}
+
